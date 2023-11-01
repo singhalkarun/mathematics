@@ -1,4 +1,6 @@
-Matrix: Rectangular Array of Numbers
+## Matrix
+
+Definition : Rectangular Array of Numbers
 
 Assumptions:
 
@@ -25,6 +27,25 @@ Definitions:
 
 * Determinant of the Matrix A: $\sum\limits_{j = 1}^{j = n}$ $a_{ij} C_{ij}$ for a fixed i
 
+## Vector Space
+
+Definition: A Vector Space (V; +; ·; R) is non empty set V with two operations:
+
+* $+$ (addition): $V \times V \rightarrow V$
+* $.$ (scalar multiplication): $R \times V \rightarrow V$
+
+  which satisfy the following conditions for all u, v and w in V and for all scalars a
+and b in R.
+
+1. Additive Closure: u + v ∈ V .
+2. Multiplicative Closure: a · u ∈ V .
+3. Additive Commutativity: u + v = v + u.
+4. Additive Associativity: (u + v) + w = u + (v + w).
+5. Existence of a zero vector: There is a special vector $0_{V}$ ∈ V, called the zero vector, such that u + $0_{V}$ = u.
+6. Additive Inverse: For every u ∈ V , there is a vector $u^{'}$ called negative (additive inverse) of u such that u + $u^{'}$ = $0_{V}$
+7. Unity: 1 · u = u.
+8. Associativity of multiplication: (ab) · u = a · (b · u).
+9. Distributivity: (a + b) · u = a · u + b · u and a · (u + v) = a · u + a · v.
 
 Note:
 
