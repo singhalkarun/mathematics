@@ -47,6 +47,16 @@ and b in R.
 8. Associativity of multiplication: (ab) · u = a · (b · u).
 9. Distributivity: (a + b) · u = a · u + b · u and a · (u + v) = a · u + a · v.
 
+Assumption:
+
+* S is a Vector Space
+
+Definitions:
+
+* Span (denoted by Span(S)): The set of all linear combinations of the vectors in S
+* Spanning Set: Any set $S^{'}$ such that any vector in Span(S) can be written as linear combinations of the vectors in $S^{'}$
+* Basis: Linearly Independent subset of S that spans S
+
 Note:
 
 Definitions are simplified in the context of study. 
