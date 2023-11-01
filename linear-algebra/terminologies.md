@@ -51,5 +51,10 @@ Note:
 
 Definitions are simplified in the context of study. 
 
+References:
+
+1. https://mml-book.github.io/book/mml-book.pdf
+2. [Linear Algebra](https://drive.google.com/file/d/1jaP-zhFtY6xxnjzt-Tqu38seLamiDHmW/view)
+
 
 
