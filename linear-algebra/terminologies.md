@@ -2,7 +2,7 @@ Matrix: Rectangular Array of Numbers
 
 Assumptions:
 
-* A is a matrix with m rows and n columns (where we take $A_{ij}$, 1 < i <= m and 1 <= j < n)
+* A is a matrix with m rows and n columns (wherever we take $a_{ij}$, 1 < i <= m and 1 <= j < n)
 * Determinant of a 1 by 1 matrix [x] = x
 
 Definitions:
