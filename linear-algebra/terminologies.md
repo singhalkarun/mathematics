@@ -62,6 +62,10 @@ Definitions:
 
 * Determinant of the Matrix A: $\sum\limits_{j = 1}^{j = n}$ $a_{ij} C_{ij}$ for a fixed i
 
+### Linear Transformation
+
+f(x + $\lambda y$) =  $f(x) + \lambda f(y)$
+
 Note:
 
 Definitions are simplified in the context of study. 
