@@ -66,6 +66,19 @@ Definitions:
 
 f(x + $\lambda y$) =  $f(x) + \lambda f(y)$
 
+f(a + (-1)(a)) = f(a) - f(a) => f(0) = 0
+
+Assumption:
+
+f: V -> W is a function
+
+Definitions:
+
+* Injective Function: f(v1) = f(v2) $\implies v1=v2$
+* Surjective Function: for $\forall w \in W$  $\exists v \in V$ such that f(v) = w
+* Bijective Function: Function that is both injective and surjective
+* Isomorphism: Linear Transformation which is Bijection
+
 Note:
 
 Definitions are simplified in the context of study. 
