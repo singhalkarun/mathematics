@@ -50,7 +50,7 @@ Definitions:
 * Scalar Matrix: Diagonal Matrix with equal diagonal elements
 * Rank: No. of linearly independent rows/columns
 * Transpose (denoted at $A^t$): $\forall$ (i,j) $A_{ij}$ <-> $A_{ji}$ (<-> denotes swap)
-
+* Trace of Matrix (denoted by tr(A)) = Sum of elements of the principal diagonal
 * Null Space: The Subspace W = { x $\in R^{n} | Ax = 0$ } of $R^{n}$
 * Nullity: Dimension of Null Space
 
