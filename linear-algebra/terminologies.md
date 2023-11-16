@@ -63,6 +63,18 @@ Definitions:
 
 * Determinant of the Matrix A: $\sum\limits_{j = 1}^{j = n}$ $a_{ij} C_{ij}$ for a fixed i
 
+### Equivalence
+
+A is equivalent to B if $B = QAP$ for invertible matrices Q and P. Equivalence of Matrices is an equivalent relation.
+
+* Rank(A) = Rank(B)
+
+### Similarity (Applicable for Square Matrix)
+
+A is similar to B if $B = P^{-1}AP$. Similarity of Matrices is an equivalent relation
+
+* Det(A) = Det(B)
+
 ### Linear Transformation
 
 f(x + $\lambda y$) =  $f(x) + \lambda f(y)$
@@ -71,7 +83,7 @@ f(a + (-1)(a)) = f(a) - f(a) => f(0) = 0
 
 Assumption:
 
-f: V -> W is a function
+f: V -> W is a function, T: V -> W is a linear transformation
 
 Definitions:
 
@@ -79,6 +91,21 @@ Definitions:
 * Surjective Function: for $\forall w \in W$  $\exists v \in V$ such that f(v) = w
 * Bijective Function: Function that is both injective and surjective
 * Isomorphism: Linear Transformation which is Bijection
+
+Property:
+
+Let $\beta_1$ and $\beta_2$ be 2 ordered basis for V and $\gamma_1$ and $\gamma_2$ be 2 ordered basis for W
+
+Let A be the matrix corresponding to T with respect to $\beta_1$ and $\gamma_1$ and B be the matrix corresponding to T with respect to $\beta_2$ and $\gamma_2$, then A is equivalent to B
+
+B = QAP then
+
+P -> Express the ordered basis $\beta_2$ in terms of $\beta_1$
+
+Q -> Express the ordered basis $\gamma_1$ in terms of $\gamma_2$
+
+
+
 
 Note:
 
